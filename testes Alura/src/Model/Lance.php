@@ -24,8 +24,10 @@ class Lance
         return $this->usuario;
     }
 
-    public function getValor(): float
-    {
-        return $this->valor;
-    }
+    
+    //esse comentario esta somente na nova funcionalidade 
+    /*  public function getValor(): float
+        {
+        // return $this->valor;
+        }*/
 }
