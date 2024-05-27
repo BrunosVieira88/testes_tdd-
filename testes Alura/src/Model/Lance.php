@@ -25,9 +25,5 @@ class Lance
     }
 
     
-    //esse comentario esta somente na nova funcionalidade 
-    /*  public function getValor(): float
-        {
-        // return $this->valor;
-        }*/
+   
 }
