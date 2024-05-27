@@ -23,7 +23,7 @@ class Lance
     {
         return $this->usuario;
     }
-
+    //aleatorio comentario somente outra_branch
     
    
 }
